@@ -16,7 +16,7 @@ Tujuan dari **SCRAPING-DATA-SEKOLAH** adalah menyiapkan **data sekolah Indonesia
 👉 [https://sekolah.data.kemendikdasmen.go.id/](https://sekolah.data.kemendikdasmen.go.id/)  
 
 Data ini nantinya akan digunakan dalam proses lanjutan proyek **SKYLEARN**, seperti:  
-- Scraping data pendukung melalui Google Maps  
+- Scraping data pendukung (**Citra Satelit**) melalui Google Maps  
 - Analisis clustering sekolah  
 - Klasifikasi sekolah berbasis machine learning  
 - Deployment model dan aplikasi  
@@ -75,4 +75,5 @@ Kami sangat terbuka untuk kontribusi dari komunitas!
 - Ajukan **pull request** jika ingin menambahkan fitur atau perbaikan.  
 
 > Mari bersama-sama membangun ekosistem data sekolah Indonesia yang lebih terbuka, rapi, dan bermanfaat 🚀  
+
 
