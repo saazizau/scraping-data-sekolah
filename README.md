@@ -3,7 +3,7 @@
 Proyek ini merupakan **bagian pertama** dari lima tahap utama inisiatif **SKYLEARN**:  
 
 1. **SCRAPING-DATA-SEKOLAH**  
-2. **SCRAPING-GOOGLE-MAPS**  
+2. **SCRAPING-CITRA-SATELIT**  
 3. **CLUSTERING-SEKOLAH**  
 4. **KLASIFIKASI-SEKOLAH**  
 5. **DEPLOYMENT**  
@@ -75,3 +75,4 @@ Kami sangat terbuka untuk kontribusi dari komunitas!
 - Ajukan **pull request** jika ingin menambahkan fitur atau perbaikan.  
 
 > Mari bersama-sama membangun ekosistem data sekolah Indonesia yang lebih terbuka, rapi, dan bermanfaat 🚀  
+
