@@ -14,6 +14,7 @@ Tujuan dari **SCRAPING-DATA-SEKOLAH** adalah menyiapkan **data sekolah Indonesia
 
 ### Struktur Folder
 
+```
 SCRAPING-DATA-SEKOLAH/
 ├── data/
 │ └── README.md                 # Catatan sumber data
@@ -27,7 +28,7 @@ SCRAPING-DATA-SEKOLAH/
 │ ├── 2_scraping_profil.ipynb   # Notebook untuk scraping profil sekolah
 │ ├── dummy/                    # Contoh file HTML untuk testing
 │ └── gambar/                   # Untuk kepentingan gambar di dalam notebook
-
+```
 
 ### Keterangan
 
@@ -37,4 +38,19 @@ SCRAPING-DATA-SEKOLAH/
   - `data_profil/` → JSON hasil scraping profil sekolah.  
 - **notebooks/** → notebook untuk scraping.  
 - **dummy/** → file HTML contoh untuk **testing fungsi scraping**.  
+
 - **gambar/** → gambar ilustrasi dari fungsi-fungsi scraping, membantu dokumentasi dan penjelasan alur.
+
+### 🤝 Kolaborasi
+
+Proyek ini dikerjakan secara kolaboratif sebagai bagian dari inisiatif **SKYLEARN**.  
+
+**Kontributor:**  
+- 🌟 **Algae Desma Fridasary** — *Ketua Tim & Visioner Utama*  
+  Pemilik ide, penggerak utama proyek, berfokus pada penulisan artikel ilmiah dan deployment sistem.  
+
+- 🎓 **Sabrina Aziz Aulia** — *Mentor & Spesialis Komputasi*  
+  Memberikan arahan strategis serta pendampingan teknis, terutama pada aspek komputasi dan pemodelan data.
+
+Kontribusi tambahan sangat terbuka!  
+Silakan buat *issue* atau *pull request* jika ingin berpartisipasi.
