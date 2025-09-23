@@ -1,18 +1,29 @@
-# Proyek SCRAPING-DATA-SEKOLAH
+# 📌 Proyek SCRAPING-DATA-SEKOLAH  
 
-Proyek ini adalah bagian pertama dari 5 bagian utama proyek **SKYLEARN**:
+Proyek ini merupakan **bagian pertama** dari lima tahap utama inisiatif **SKYLEARN**:  
 
 1. **SCRAPING-DATA-SEKOLAH**  
-2. **SCRAPING-GOOGLE MAPS**  
+2. **SCRAPING-GOOGLE-MAPS**  
 3. **CLUSTERING-SEKOLAH**  
 4. **KLASIFIKASI-SEKOLAH**  
 5. **DEPLOYMENT**  
 
-### Tujuan
+---
 
-Tujuan dari **SCRAPING-DATA-SEKOLAH** adalah menyiapkan **data sekolah Indonesia yang valid dan lengkap** dari website resmi Kemendikbud ([https://sekolah.data.kemendikdasmen.go.id/](https://sekolah.data.kemendikdasmen.go.id/)) sehingga dapat digunakan untuk **proses selanjutnya** dalam proyek SKYLEARN, seperti scraping Google Maps, clustering, dan klasifikasi sekolah.
+## 🎯 Tujuan  
 
-### Struktur Folder
+Tujuan dari **SCRAPING-DATA-SEKOLAH** adalah menyiapkan **data sekolah Indonesia yang valid dan lengkap** dari website resmi Kemendikbud  
+👉 [https://sekolah.data.kemendikdasmen.go.id/](https://sekolah.data.kemendikdasmen.go.id/)  
+
+Data ini nantinya akan digunakan dalam proses lanjutan proyek **SKYLEARN**, seperti:  
+- Scraping data pendukung melalui Google Maps  
+- Analisis clustering sekolah  
+- Klasifikasi sekolah berbasis machine learning  
+- Deployment model dan aplikasi  
+
+---
+
+## 📂 Struktur Folder  
 
 ```
 SCRAPING-DATA-SEKOLAH/
@@ -27,30 +38,40 @@ SCRAPING-DATA-SEKOLAH/
 │ ├── 1_scraping_halaman.ipynb  # Notebook untuk scraping halaman
 │ ├── 2_scraping_profil.ipynb   # Notebook untuk scraping profil sekolah
 │ ├── dummy/                    # Contoh file HTML untuk testing
-│ └── gambar/                   # Untuk kepentingan gambar di dalam notebook
+│ └── gambar/                   # Dokumentasi gambar untuk notebook
 ```
 
-### Keterangan
+---
+
+## 📝 Keterangan  
 
 - **data/** → berisi catatan mengenai **asal dan penggunaan data**.  
 - **hasil/** → menyimpan output scraping:  
-  - `data_halaman/` → CSV hasil scraping halaman Kemendikbud.  
-  - `data_profil/` → JSON hasil scraping profil sekolah.  
-- **notebooks/** → notebook untuk scraping.  
-- **dummy/** → file HTML contoh untuk **testing fungsi scraping**.  
+  - `data_halaman/` → hasil scraping halaman Kemendikbud (CSV).  
+  - `data_profil/` → hasil scraping profil sekolah (JSON).  
+- **notebooks/** → notebook utama untuk scraping.  
+- **dummy/** → file HTML contoh untuk **pengujian fungsi scraping**.  
+- **gambar/** → ilustrasi/dokumentasi yang mendukung penjelasan notebook.  
 
-- **gambar/** → gambar ilustrasi dari fungsi-fungsi scraping, membantu dokumentasi dan penjelasan alur.
+---
 
-### 🤝 Kolaborasi
+## 🤝 Kolaborasi  
 
-Proyek ini dikerjakan secara kolaboratif sebagai bagian dari inisiatif **SKYLEARN**.  
+Proyek ini dikerjakan secara kolaboratif dalam rangka inisiatif **SKYLEARN**.  
 
-**Kontributor:**  
+### 👥 Kontributor  
 - 🌟 **Algae Desma Fridasary** — *Ketua Tim & Visioner Utama*  
-  Pemilik ide, penggerak utama proyek, berfokus pada penulisan artikel ilmiah dan deployment sistem.  
+  Pemilik ide dan penggerak utama proyek. Berfokus pada penulisan artikel ilmiah serta deployment sistem.  
 
 - 🎓 **Sabrina Aziz Aulia** — *Mentor & Spesialis Komputasi*  
-  Memberikan arahan strategis serta pendampingan teknis, terutama pada aspek komputasi dan pemodelan data.
+  Memberikan arahan strategis dan pendampingan teknis, terutama dalam aspek komputasi dan pemodelan data.  
 
-Kontribusi tambahan sangat terbuka!  
-Silakan buat *issue* atau *pull request* jika ingin berpartisipasi.
+---
+
+## 📢 Kontribusi  
+
+Kami sangat terbuka untuk kontribusi dari komunitas!  
+- Buat **issue** untuk melaporkan bug atau memberikan ide.  
+- Ajukan **pull request** jika ingin menambahkan fitur atau perbaikan.  
+
+> Mari bersama-sama membangun ekosistem data sekolah Indonesia yang lebih terbuka, rapi, dan bermanfaat 🚀  
