@@ -1,0 +1,361 @@
+{
+    "detail_sekolah": {
+        "akreditasi": "A",
+        "kepala_sekolah": "Mustajab",
+        "operator": "Seri Ayuna"
+    },
+    "data_profil": {
+        "guru": "0",
+        "siswa_l": "82",
+        "siswa_p": "83",
+        "rombongan_belajar": "6",
+        "kurikulum": null,
+        "penyelenggaraan": null,
+        "manajemen_berbasis_sekolah": "Tidak",
+        "semester_data": "2025/2026-1",
+        "akses_internet": null,
+        "sumber_listrik": null,
+        "daya_listrik": null,
+        "luas_tanah": "15030",
+        "ruang_kelas": "9",
+        "laboratorium": "3",
+        "perpustakaan": "1",
+        "sanitasi_siswa": "2"
+    },
+    "data_ekskul": {
+        "rasio_siswa_rombel": "27.5",
+        "rasio_siswa_ruang_kelas": "18.33",
+        "rasio_siswa_guru": "0",
+        "persentase_guru_kualifikasi": "0",
+        "persentase_guru_sertifikasi": "0",
+        "persentase_guru_pns": "0",
+        "persentase_ruang_kelas_layak": "100"
+    },
+    "data_sanitasi": {
+        "Sumber Air": "Mata air tdk terlindungi",
+        "Kecukupan Air": "2",
+        "Ketersediaan Air Minum Siswa": "0",
+        "Memproses Air": "0",
+        "Siswa Membawa Air": "1",
+        "Toilet Siswa Laki-laki": "0",
+        "Toilet Siswa Perempuan": "0",
+        "Toilet Siswa Umum": "0",
+        "Toilet Siswa Kecil": "0",
+        "Tipe Jamban": "1",
+        "Tempat Cuci Tangan": "12",
+        "Air Mengalir": "1"
+    },
+    "data_terdekat": {
+        "instansi_terdekat": "Dinas Pendidikan Provinsi Aceh (44.76 Km), Dinas Pendidikan dan Kebudayaan Kab. Aceh Besar (11.13 Km), Balai Bahasa Aceh (43.4 Km)",
+        "sekolah_terdekat": "SMAIT Nurul Fikri Boarding School Aceh (8.39), SMA NEGERI 1 KOTA JANTHO (12.48), SMA NEGERI 1 SEULIMEUM (12.83), PKBM Pante Leungah (10.62 Km), PKBM AL-ITTIHADIYAH (10.62 Km), SKB ACEH BESAR (12.3 Km)"
+    },
+    "siswa": {
+        "siswa": {
+            "tingkat": {
+                "10": 61,
+                "11": 56,
+                "12": 48,
+                "total": 165
+            },
+            "agama": {
+                "laki-laki": {
+                    "islam": 82,
+                    "kristen": 0,
+                    "katholik": 0,
+                    "hindu": 0,
+                    "budha": 0,
+                    "kong hu chu": 0,
+                    "kepercayaan": 0,
+                    "lainnya": 0,
+                    "total": 82
+                },
+                "perempuan": {
+                    "islam": 83,
+                    "kristen": 0,
+                    "katholik": 0,
+                    "hindu": 0,
+                    "budha": 0,
+                    "kong hu chu": 0,
+                    "kepercayaan": 0,
+                    "lainnya": 0,
+                    "total": 83
+                }
+            },
+            "umur": {
+                "< 16 tahun": 1,
+                "16 - 18 tahun": 143,
+                "> 18 tahun": 21,
+                "total": 165
+            },
+            "jenis_kelamin": {
+                "laki-laki": 82,
+                "perempuan": 83,
+                "total": 165
+            }
+        },
+        "siswa_mengulang": {
+            "tingkat": {
+                "10": 0,
+                "11": 0,
+                "12": 0,
+                "total": 0
+            },
+            "umur": {
+                "< 16 tahun": 0,
+                "16 - 18 tahun": 0,
+                "> 18 tahun": 0,
+                "total": 0
+            },
+            "jenis_kelamin": {
+                "laki-laki": 0,
+                "perempuan": 0,
+                "total": 0
+            }
+        },
+        "siswa_baru": {
+            "umur": {
+                "< 16 tahun": 0,
+                "16 - 18 tahun": 2,
+                "> 18 tahun": 0,
+                "total": 2
+            },
+            "jenis_kelamin": {
+                "laki-laki": 0,
+                "perempuan": 2,
+                "total": 2
+            }
+        },
+        "siswa_lulus": {
+            "umur": {
+                "< 16 tahun": 0,
+                "16 - 18 tahun": 0,
+                "> 18 tahun": 0,
+                "total": 0
+            },
+            "jenis_kelamin": {
+                "laki-laki": 0,
+                "perempuan": 0,
+                "total": 0
+            }
+        }
+    },
+    "guru": {
+        "guru": {
+            "status": {
+                "pns": 0,
+                "gtt": 4,
+                "gty": 0,
+                "honor": 0,
+                "total": 4
+            },
+            "golongan": {
+                "I": 0,
+                "II": 0,
+                "III": 0,
+                "IV": 0,
+                "Total": 0
+            },
+            "sertifikasi": {
+                "sertifikasi": 16,
+                "belum sertifikasi": -16,
+                "total": 0
+            },
+            "ijazah": {
+                "kurang dari s1": 0,
+                "s1 atau lebih": 0,
+                "data kosong": 0,
+                "total": 0
+            },
+            "umur": {
+                "kurang dari 30 tahun": 0,
+                "31 - 35 tahun": 0,
+                "36 - 40": 0,
+                "41 - 45 tahun": 0,
+                "46 - 50 tahun": 0,
+                "51 - 55 tahun": 0,
+                "lebih dari 55 tahun": 0,
+                "total": 0
+            },
+            "jenis_kelamin": {
+                "laki-laki": 0,
+                "perempuan": 0,
+                "total": 0
+            }
+        },
+        "tenaga_kependidikan": {
+            "status": {
+                "pns": 15,
+                "honor": 8,
+                "total": 23
+            },
+            "golongan": {
+                "I": 16,
+                "II": 1,
+                "III": 7,
+                "IV": 3,
+                "Total": 27
+            },
+            "ijazah": {
+                "kurang dari s1": 0,
+                "s1 atau lebih": 25,
+                "data kosong": 2,
+                "total": 27
+            },
+            "umur": {
+                "kurang dari 30 tahun": 3,
+                "31 - 35 tahun": 3,
+                "36 - 40": 6,
+                "41 - 45 tahun": 5,
+                "46 - 50 tahun": 2,
+                "51 - 55 tahun": 5,
+                "lebih dari 55 tahun": 3,
+                "total": 27
+            },
+            "jenis_kelamin": {
+                "laki-laki": 6,
+                "perempuan": 21,
+                "total": 27
+            }
+        }
+    },
+    "rombongan_belajar": {
+        "tingkat": {
+            "10": 61,
+            "11": 56,
+            "12": 48,
+            "total": 165
+        }
+    },
+    "sarana_prasarana": {
+        "ruang_kelas": {
+            "baik": 9,
+            "rusak ringan": 0,
+            "rusak sedang": 0,
+            "rusak berat": 0,
+            "total": 9
+        },
+        "laboratorium": {
+            "IPA": {
+                "Baik": 0,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 3,
+                "Rusak Berat": 0,
+                "total": 3
+            },
+            "Bahasa": {
+                "Baik": 0,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 0,
+                "Rusak Berat": 0,
+                "total": 0
+            },
+            "IPS": {
+                "Baik": 0,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 0,
+                "Rusak Berat": 0,
+                "total": 0
+            },
+            "Komputer": {
+                "Baik": 0,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 0,
+                "Rusak Berat": 1,
+                "total": 1
+            },
+            "Total": {
+                "Baik": 0,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 3,
+                "Rusak Berat": 1,
+                "total": 4
+            }
+        },
+        "perpustakaan": {
+            "baik": 1,
+            "rusak ringan": 0,
+            "rusak sedang": 0,
+            "rusak berat": 0,
+            "total": 1
+        },
+        "sanitasi": {
+            "Guru": {
+                "Baik": 2,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 0,
+                "Rusak Berat": 0,
+                "total": 2
+            },
+            "Siswa": {
+                "Baik": 2,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 0,
+                "Rusak Berat": 0,
+                "total": 2
+            },
+            "Total": {
+                "Baik": 4,
+                "Rusak Ringan": 0,
+                "Rusak Sedang": 0,
+                "Rusak Berat": 0,
+                "total": 4
+            }
+        }
+    },
+    "data_akreditasi": {
+        "standar_isi": "",
+        "standar_proses": "",
+        "standar_kelulusan": "",
+        "standar_tenaga_pendidik": "",
+        "standar_sarana_prasarana": "",
+        "standar_pengelolaan": "",
+        "standar_pembiayaan": "",
+        "standar_penilaian": "",
+        "tahun": "2024",
+        "nilai_akhir": "0",
+        "akreditasi": "A"
+    },
+    "data_bantuan": {
+        "rehab": {
+            "Tahun": "",
+            "Jumlah Ruang": ""
+        },
+        "revitalisasi": {
+            "Tahun": "",
+            "Jenis": "",
+            "Pembina": ""
+        },
+        "rkb": {
+            "Tahun": "",
+            "Jenis": "",
+            "Pembina": ""
+        },
+        "sanitasi": {
+            "Tahun": "",
+            "Jenis": "",
+            "Pembina": ""
+        },
+        "usb": {
+            "Tahun": "",
+            "Jenis": "",
+            "Pembina": ""
+        },
+        "bos": {
+            "Tahun": "2013",
+            "Jumlah Siswa": "197"
+        },
+        "pip": {
+            "Tahun": "2015",
+            "Jumlah Penerima": "88"
+        },
+        "tik": {
+            "Tahun": "",
+            "Jenis": "",
+            "Pembina": ""
+        },
+        "sarana_kesenian": {
+            "Tahun": "2015",
+            "Pembina": "Direktorat Kesenian"
+        }
+    }
+}
