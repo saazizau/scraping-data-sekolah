@@ -49,7 +49,7 @@ SCRAPING-DATA-SEKOLAH/
 - **hasil/** → menyimpan output scraping:  
   - `data_halaman/` → hasil scraping halaman Kemendikbud (CSV).  
   - `data_profil/` → hasil scraping profil sekolah (JSON).
-  ⚠️ **Catatan:** Folder `hasil/` yang ada di repository hanyalah **sampel**. Apabila ingin mendapatkan hasil penuh, bisa menjalankan program sendiri atau menghubungi email: **saazizau@gmail.com** / **algaedesma2004@gmail.com**.  
+> ⚠️ **Catatan:** Folder `hasil/` yang ada di repository hanyalah **sampel**. Apabila ingin mendapatkan hasil penuh, bisa menjalankan program sendiri atau menghubungi email: **saazizau@gmail.com** / **algaedesma2004@gmail.com**.  
 - **notebooks/** → notebook utama untuk scraping.  
 - **dummy/** → file HTML contoh untuk **pengujian fungsi scraping**.  
 - **gambar/** → ilustrasi/dokumentasi yang mendukung penjelasan notebook.  
@@ -76,6 +76,7 @@ Kami sangat terbuka untuk kontribusi dari komunitas!
 - Ajukan **pull request** jika ingin menambahkan fitur atau perbaikan.  
 
 > Mari bersama-sama membangun ekosistem data sekolah Indonesia yang lebih terbuka, rapi, dan bermanfaat 🚀  
+
 
 
 
